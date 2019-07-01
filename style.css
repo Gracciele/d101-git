@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+}
+nav {
+    background-color: blueviolet;
+    height: 50px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 18pt;
+    font-family: 'Montserrat', sans-serif;
+    padding: 12px;
+}
